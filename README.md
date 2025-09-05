@@ -1,6 +1,6 @@
 # XOX GAME
 
-Typescript ve vue.js ile yapılan basit bir XOX oyunudur.
+Vue.js ile yapılan basit bir XOX oyunudur.
 
 İlk oyuncu X, ikinci oyuncu O ile oynar. Oyuncular sırayla boş karelere kendi işaretlerini koyar. Yatay, dikey veya çapraz 3 aynı işareti dizen oyuncu oyunu kazanır. Tüm kareler dolup kimse kazanamazsa oyun beraberlik olur.
 
